@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Göktürk
 - 👀 I’m interested in game development.
-- 💻 Management Information Systems student.
+- 💻 Management Information Systems student and game developer at Alictus.
 - 🌱 I’m currently learning Unreal Engine 5.
 - 💞️ I’m looking to collaborate on great game projects.
 ### 📬 Find me at
