@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Göktürk
 - 👀 I’m interested in game development.
-- 💻 Management Information Systems student and graduate gameplay programmer at Halfbrick * Ex Alictus.
+- 💻 Management Information Systems student and gameplay programmer
 - 💞️ I’m looking to collaborate on great game projects.
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/gokturk-tas/)](https://github.com/gokturk-tas/) 
